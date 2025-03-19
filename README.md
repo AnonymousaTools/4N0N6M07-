@@ -11,5 +11,8 @@ chmod +x T00L-4N0NYM07$.bash
 
 ./T00L-4N0NYM07$.bash
 
+# termux-setup-storage [?]
+[!] aby dostać się na tool musisz nadać uprawnienia termux [!]
+
 # Info
 [!] Cały tool został stworzony w celach edukacyjnych używanie go w sposób nielegalny jest surowo karalne [!]
